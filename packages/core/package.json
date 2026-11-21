@@ -94,7 +94,7 @@
   },
   "dependencies": {
     "@nura-js/plugin-fuzzy": "workspace:*",
-    "tslib": "^2.6.2"
+    "tslib": "^2.9.1"
   },
   "engines": {
     "node": ">=18.18.0"
